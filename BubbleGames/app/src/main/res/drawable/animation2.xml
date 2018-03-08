@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/bubble2"
+        android:duration="2"/>
+    <item
+        android:drawable="@drawable/bubble2_ani2"
+        android:duration="2"/>
+    <item
+        android:drawable="@drawable/bubble2_ani3"
+        android:duration="2"/>
+    <item
+        android:drawable="@drawable/bubble2_ani4"
+        android:duration="2"/>
+    <item
+        android:drawable="@drawable/bubble2_ani5"
+        android:duration="2"/>
+    <item
+        android:drawable="@drawable/bubble2_ani6"
+        android:duration="2"/>
+    <alpha
+        android:duration="1"
+        android:fromAlpha="100"
+        android:toAlpha="0" />
+
+</animation-list>

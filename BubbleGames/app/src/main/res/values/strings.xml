@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BubbleGameWithClient</string>
+
+    <string name="mode_prompt">Choose a mode</string>
+
+    <string-array name="mode_arrays">
+        <item>Dropping Mode</item>
+        <item>Bouncing Mode</item>
+    </string-array>
+</resources>
